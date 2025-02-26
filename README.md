@@ -11,7 +11,7 @@ This submodule covers fundamental JavaScript concepts using the **console**. The
 | 3  | Use `console.log()` to display the **current year**. | [3-Problem](./3-Problem.js) |
 | 4  | Create two variables for **first and last name**, concatenate them, and log the result. | [4-Problem](./4-Problem.js) |
 | 5  | Track the value of a variable by logging it **before and after updating**. | [5-Problem](./5-Problem.js) |
-| 6  | Use `console.error()` to simulate an **error message**. | [6-Problem](./6-Problem/) |
+| 6  | Use `console.error()` to simulate an **error message**. | [6-Problem](./6-Problem.js) |
 | 7  | Log the **square** of the number `12` to the console. | [7-Problem](./7-Problem/) |
 | 8  | Print the **type** of a variable holding the value `true`. | [8-Problem](./8-Problem/) |
 | 9  | Create a variable holding your **age** and check whether it’s **greater than 18**. | [9-Problem](./9-Problem/) |
