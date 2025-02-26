@@ -15,7 +15,7 @@ This submodule covers fundamental JavaScript concepts using the **console**. The
 | 7  | Log the **square** of the number `12` to the console. | [7-Problem](./7-Problem.js) |
 | 8  | Print the **type** of a variable holding the value `true`. | [8-Problem](./8-Problem.js) |
 | 9  | Create a variable holding your **age** and check whether it’s **greater than 18**. | [9-Problem](./9-Problem.js) |
-| 10 | Log the result of `100 / 0` and observe the **output**. | [10-Problem](./10-Problem/) |
+| 10 | Log the result of `100 / 0` and observe the **output**. | [10-Problem](./10-Problem.js) |
 
 ---
 
