@@ -6,7 +6,7 @@ This submodule covers fundamental JavaScript concepts using the **console**. The
 
 | #  | Problem Description | Link |
 |----|---------------------|------|
-| 1  | Log your **name** and **favorite hobby** to the console. | [1-Problem](./1-Problem/) |
+| 1  | Log your **name** and **favorite hobby** to the console. | [1-Problem](./1-Problem.js) |
 | 2  | Perform and log the result of **45 × 2 - 10**. | [2-Problem](./2-Problem/) |
 | 3  | Use `console.log()` to display the **current year**. | [3-Problem](./3-Problem/) |
 | 4  | Create two variables for **first and last name**, concatenate them, and log the result. | [4-Problem](./4-Problem/) |
